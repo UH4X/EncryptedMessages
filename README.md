@@ -8,4 +8,4 @@ this encrypted message that YOU are sending. (This can also be reverse so not ju
 
 There is a help commandline in there. To see what you can do just write "help" when in the prompt.
 
-Pro tip: You need python for this to work✌️
+Pro tip: You need python (Tested only on: 3.12.8) for this to work✌️
