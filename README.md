@@ -7,3 +7,5 @@ Range-ID that you'd like. So let's just say for fun a Range-ID of "9999999999999
 this encrypted message that YOU are sending. (This can also be reverse so not just you sending to another part, but the part can send to you also).
 
 There is a help commandline in there. To see what you can do just write "help" when in the prompt.
+
+Pro tip: You need python for this to work✌️
