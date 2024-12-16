@@ -5,7 +5,9 @@ Claimed by: UH4X
 
 This product is not to be sold for money and has to stay open-source.
 
-If you write/edit any code, you may add a section called: Contributer: (your name).
+If you write/edit any code, HAVE to add a section called: "Edited by: (your name/username/displayname)".
+The "Edited by: ..." has to be on line 8.
+
 Tho you are to refrain removing the "By - UH4X" section.
 AND you are to refrain from removing the link section leading to the ORIGINAL github repository.
 
