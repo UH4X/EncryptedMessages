@@ -9,3 +9,8 @@ this encrypted message that YOU are sending. (This can also be reverse so not ju
 There is a help commandline in there. To see what you can do just write "help" when in the prompt.
 
 Pro tip: You need python (Tested only on: 3.12.8) for this to work✌️
+
+
+Also I know that when this program, file or release is downloaded, it'll say that it's a virus, but it's really not.
+The reason it says it's a virus is because of the "import os" library where I have used "os.system('cls') to clear the screen and make everything look nicer.
+But that apparently gets flagged which I didn't know. I asked ChatGPT why and it's telling me to use subprocess, so I'll take a look at that later.
