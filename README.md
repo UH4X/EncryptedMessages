@@ -1,5 +1,5 @@
 # EncryptedMessages
-I have made this cipther tool for fun, but you can add an ID that is so large that  it'll be basically impossible to decrypt unless the other part has that same exact ID that you used to encrypt with.
+I have made this cipher tool for fun, but you can add an ID that is so large that  it'll be basically impossible to decrypt unless the other part has that same exact ID that you used to encrypt with.
 
 
 Let's say you have this message: "Hello how are you doing today?" but you want nobody to know what that message includes except the other part you are going to send it to, then you can write any
