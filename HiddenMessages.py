@@ -4,7 +4,7 @@ os.system('cls')
 
 print("""
       WELCOME! (THIS WAS MADE BY: C4X)
-      Original Github Repository: https://github.com/C0dexH4xer/EncryptedMessages/
+      Original Github Repository: https://github.com/C0dexH4xer/EncryptedMessages
 
       This is a Cipther Encrypter
       You choose the addition
