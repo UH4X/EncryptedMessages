@@ -18,4 +18,7 @@ But that apparently gets flagged which I didn't know. I asked ChatGPT why and it
 Edit on: 16th December 2024
 If your file still flags in v1.2 then I really don't know why or how to fix it. It's a false positive, Here is a TotalVirus Scanning: https://www.virustotal.com/gui/file/7cc04074581b4fb6d7de017eef68f3363640ad0423dbfa46cd8b1b3ea39702d1
 
+Also I asked ChatGPT which may be able to give you a better understanding of why this program flags. Here is my conversation with it:
+https://chatgpt.com/share/67602818-e47c-800b-91e5-76947a655bba
+
 If you still don't want to take the "risk" of potential virus, then it's fully understood. You may have a continued good day;)
