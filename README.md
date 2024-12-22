@@ -32,4 +32,5 @@ If your file still flags in v1.2 then I really don't know why or how to fix it. 
 Also I asked ChatGPT which may be able to give you a better understanding of why this program flags. Here is my conversation with it:
 https://chatgpt.com/share/67602818-e47c-800b-91e5-76947a655bba
 
-If you still don't want to take the "risk" of potential virus, then it's fully understood. You may continue a great day! 😁✌️
+If you still don't want to take the "risk" of potential virus, then it's fully understood. You may continue a great day! 
+😁✌️
