@@ -1,9 +1,7 @@
-import os
-
-os.system('cls')
+print("\n" * 1000)
 
 print("""
-      WELCOME! (THIS WAS MADE BY: C4X)
+      WELCOME! (THIS WAS MADE BY: UH4X)
       Original Github Repository: https://github.com/UH4X/EncryptedMessages
 
       This is a Cipther Encrypter
@@ -12,10 +10,11 @@ print("""
 
       Remember to write on the same ID-Range.
       Otherwise this might not work
+
+      Tip: write: "Help"
       """)
 
-quit_commands = ["exit", "quit", "bye", "farewell", "goodbye", "close", "leave", "cya"]
-clear_commands = ["clear", "cls", "blank"]
+
 
 while True:
     try:
@@ -23,7 +22,8 @@ while True:
 
         if command == "encrypt":
             
-            os.system('cls')
+
+            print("\n" * 1000)
 
             enc_message = input("Encrypt: ")
             enc_id = int(input("Provide Range-ID: "))
@@ -56,7 +56,7 @@ while True:
             print(f"Decrypted code: {decrypt_result} - EncryptionID: {dec_CharID}")
             print()
 
-        elif command in quit_commands:
+        elif command in ["exit", "quit", "bye", "farewell", "goodbye", "close", "leave", "cya"]:
             print()
             print("You have chosen to quit the program!")
             break
@@ -68,10 +68,10 @@ while True:
                   You have 4 options.
 
                   1. To exit:
-                     write: {quit_commands}.
+                     write: ["exit", "quit", "bye", "farewell", "goodbye", "close", "leave", "cya"].
 
                   2. Clear:
-                     Write: {clear_commands}.
+                     Write: ["clear", "cls", "blank"].
                   
                   3. Encrypt:
                      To encryp, write: "Encrypt".
@@ -82,8 +82,8 @@ while True:
                 That's all for this script!
                     """)
             
-        elif command in clear_commands:
-            os.system('cls')
+        elif command in ["clear", "cls", "blank"]:
+            print("\n" * 1000)
             print("The screen has been cleared!")
             print()
 
